@@ -1,0 +1,31 @@
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\Alarms.txt
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\CLX.ini
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMI.exe
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMI.pdb
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMI.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMIControls.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMIControls.pdb
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMIControls.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\bin\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojResolveAssemblyReference.cache
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.Cache
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\AdvancedHMI.vbprojResolveAssemblyReference.cache
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.MainForm.resources
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Resources.resources
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\MfgControl.AdvancedHMI.Page2.resources
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\AdvancedHMI.vbproj.GenerateResource.Cache
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\AdvancedHMI.exe
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\AdvancedHMI.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\obj\Debug\AdvancedHMI.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMI\bin\Debug\AdvancedHMI.exe.config

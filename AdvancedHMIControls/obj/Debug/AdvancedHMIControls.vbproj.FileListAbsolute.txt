@@ -1,0 +1,30 @@
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIControls.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIControls.pdb
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIControls.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.vbprojResolveAssemblyReference.cache
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.ThreeButtons.resources
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.Resources.resources
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.vbproj.GenerateResource.Cache
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIControls.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIControls.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIControls.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\MfgControl.AdvancedHMI.Controls.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\bin\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.vbprojResolveAssemblyReference.cache
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.ThreeButtons.resources
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.Resources.resources
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.vbproj.GenerateResource.Cache
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIControls\obj\Debug\AdvancedHMIControls.pdb

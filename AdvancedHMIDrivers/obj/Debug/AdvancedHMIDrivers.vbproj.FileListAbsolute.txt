@@ -1,0 +1,28 @@
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\PLC HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\MfgControl.AdvancedHMI.Drivers.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\bin\Debug\OpcNetApi.Com.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.Resources.resources
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbproj.GenerateResource.Cache
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.dll
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.xml
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.pdb
+C:\DataPrograms\PC\VB PLC HMI\Starter HMI\AdvancedHMIDrivers\obj\Debug\AdvancedHMIDrivers.vbprojResolveAssemblyReference.cache

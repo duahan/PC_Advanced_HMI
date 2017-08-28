@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AdvancedHMI.exe" version="1.0.0.2" publicKeyToken="6fdae37ef3e12947" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AdvancedHMI" version="3.9.9.3" language="neutral" processorArchitecture="x86" />
+    <commandLine file="AdvancedHMI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="OpcComRcw" version="2.0.105.1" publicKeyToken="9A40E993CBFACE53" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="OpcNetApi" version="2.1.105.1" publicKeyToken="9A40E993CBFACE53" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="OpcNetApi.Com" version="2.1.105.1" publicKeyToken="9A40E993CBFACE53" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AdvancedHMI.exe" size="59776">
+      <assemblyIdentity name="AdvancedHMI" version="3.9.9.3" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>z5l9nVZLAXf3xr1P+xLk3sFLxPQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AdvancedHMIControls.dll" size="205312">
+      <assemblyIdentity name="AdvancedHMIControls" version="3.9.9.3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>mlu7lL8QRCv9qsFgVUu25QPNZ0g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AdvancedHMIDrivers.dll" size="178688">
+      <assemblyIdentity name="AdvancedHMIDrivers" version="3.9.9.3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>H+ERxQxeST9OBT2DnzjlxliCJEs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MfgControl.AdvancedHMI.Controls.dll" size="6629376">
+      <assemblyIdentity name="MfgControl.AdvancedHMI.Controls" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5w2iHW8z1FOMdFAB9QujsZ5QYLU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MfgControl.AdvancedHMI.Drivers.dll" size="209920">
+      <assemblyIdentity name="MfgControl.AdvancedHMI.Drivers" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>RC0F/oNm9z3a0m3Sf5bj2vtKaiw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AdvancedHMI.exe.config" size="1346">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YhZQ+fSY4HsNvgDSvkCB4S6O60o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Alarms.txt" size="283">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ijQUTimBx56m6GKq3v+FRyNb5oE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ReadMe.txt" size="999">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ophINrvUu7cmEOMubO95fvk+8BM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ReleaseNotes399.txt" size="23223">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vyLPY8KKIMVJNhGenEnPK3NlKOk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="UsageAndLicense.txt" size="1878">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dPaWFiB4d/8axOR214cVDZVIO5E=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RLWS\duahan" issuerKeyHash="f6c265c3e2b40412a5b0b15a30bf8dd3dc240437" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>g2dp608cOVlWHywSyEO2f20LWmQ=</DigestValue></Reference></SignedInfo><SignatureValue>l6wMBTyMPzdRnCUlUqWVT0wN67evSAzcfnRoFLiIZXsyOvJauMdBmgfqNXBbdmaLPcjhl4tbDFtc9X6MTJ7VdLYDEyIqXKUj4/LgFLHCSPUUdbMxcMB92YnXnW1NZ3ULCt7eAUY90OnBmy8K18sT3zbQ+awXnpv6AupHhyNgELs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qM6Tc4TeINPHGpg8MNZSup8qS15of1WRljk+Gk+hh/D5s/NP9eDDaylJ7yo/+zXd6Fl9ish35QfzEdzrGVdMTGoggk8zkRdrt4Z2DLnVQMK1QkJsOT0XNq3ouzapAUh9gmJ6iqybQIV5GeONaGcJ2Rurygis9eonLo3jeJLaUnc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="645a0b6d7fb643c8122c1f5659391c4feb696783" Description="" Url=""><as:assemblyIdentity name="AdvancedHMI.exe" version="1.0.0.2" publicKeyToken="6fdae37ef3e12947" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RLWS\duahan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1tf6sWPehnp8dkJfwNd0Md8ClDk=</DigestValue></Reference></SignedInfo><SignatureValue>m51Fg2+4MlSDg+WYk5q85MG7vJl/TufCvEtWNuDfLxS6GwQbnNKXYkEGaekU+y9vJzwlYkP0FXPRQ242C2nrrtS330R7MbXoUVYZEIWD+CLFLNJf6vXDYkdK/yzb1G4nPzuHuwQq7xHA1vT++9bTrIkYM08VmJ/Do2Sxo5geoUg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qM6Tc4TeINPHGpg8MNZSup8qS15of1WRljk+Gk+hh/D5s/NP9eDDaylJ7yo/+zXd6Fl9ish35QfzEdzrGVdMTGoggk8zkRdrt4Z2DLnVQMK1QkJsOT0XNq3ouzapAUh9gmJ6iqybQIV5GeONaGcJ2Rurygis9eonLo3jeJLaUnc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQebAmcQ0C27RP5JkmJG6t5jANBgkqhkiG9w0BAQUFADAhMR8wHQYDVQQDHhYAUgBMAFcAUwBcAGQAdQBhAGgAYQBuMB4XDTE2MDQwNjE3NDIxNloXDTE3MDQwNjIzNDIxNlowITEfMB0GA1UEAx4WAFIATABXAFMAXABkAHUAYQBoAGEAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqM6Tc4TeINPHGpg8MNZSup8qS15of1WRljk+Gk+hh/D5s/NP9eDDaylJ7yo/+zXd6Fl9ish35QfzEdzrGVdMTGoggk8zkRdrt4Z2DLnVQMK1QkJsOT0XNq3ouzapAUh9gmJ6iqybQIV5GeONaGcJ2Rurygis9eonLo3jeJLaUncCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAKjJWBALMUi23GqGzk0U3qwIU4/9j8xDA/T9sQvMR33+OKwMjI7fmQyLG3Q6J4gdWGsgQjhsqosunZiP30ra4QD8KqBPb1gQ+ejYzSgIG7KuAVJf5sDR0vM2YkTaj7ZuXtUAgqdn4doABExjy18SH5s+G27jToinSHFwRhthyfgw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
